@@ -1,3 +1,8 @@
+# Prints a list of account balances for a ring game run
+# on a PokerMavens server. Parses the server event log for
+# player balance adjustments associated with the ring game.
+# Adjust gamename and filename variables for specificity.
+
 from decimal import Decimal
 
 gamename = "Ring0001"
