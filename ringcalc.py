@@ -1,6 +1,6 @@
 from decimal import Decimal
 
-gamename = "Cash0111"
+gamename = "Ring0001"
 filename = "EventLog.txt"
 
 def create_players(log):
